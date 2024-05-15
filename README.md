@@ -18,3 +18,6 @@
 
 # Kubernetes for Begineres
 - Take me to KodeKlouds [Kubernetes](https://github.com/kodekloudhub/kubernetes-for-beginners)
+
+# DevOps tools Important Points
+- Take me to KodeKlouds DevOps repo [DevOps](https://github.com/kodekloudhub/devops-101)
